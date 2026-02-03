@@ -1,0 +1,16 @@
+<section id="profil" class="py-5">
+  <div class="container">
+    <h2 class="text-center fw-bold mb-4">Profil Sekolah</h2>
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <img src="assets/img/profil.jpg" class="img-fluid rounded shadow" alt="Profil Sekolah">
+      </div>
+      <div class="col-md-6">
+        <p>
+          SMK Denis Sejahtera adalah sekolah menengah kejuruan yang berfokus pada
+          pengembangan keterampilan, karakter, dan kesiapan kerja siswa.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
